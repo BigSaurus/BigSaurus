@@ -1,8 +1,10 @@
 # Hi, I'm Big Saurus
 
-I build **accessible tools for musicians and audio engineers** — software that makes guitar gear, audio interfaces, and MIDI controllers usable with a screen reader and keyboard, not just a mouse and a pretty UI.
+I'm a disabled technologist who builds **accessibility-first tools for software, hardware, and games** — because I've spent my whole life on the other side of the problem.
 
-Most of these projects started because a piece of music hardware or software *wasn't* accessible, and I wanted to fix that.
+I've worked in professional accessibility for over a decade, but I've really been doing this work far longer than that. Long before it was a job, it was just life: figuring out how to make my own homework accessible, teaching my teachers how to teach me, problem-solving every single moment of every single day. That never stopped. I still hit it everywhere I go — an ATM with a headphone jack hidden somewhere new and an OS I've never seen, a fast-food kiosk with no accessibility settings standing between me and a hamburger. The world is full of things that are quietly *disabling*, and most of them didn't have to be.
+
+So I fix them. I have a deep passion for learning and problem-solving, and I love building solutions that are **straightforward, genuinely enjoyable to use, and rock-solid reliable** — simple tools that earn your trust and keep it, day in and day out. Our world runs on digital, and I'm dedicated to making sure disabled people aren't left behind in it. Video games, professional tools, the interfaces between hardware and software — everyone deserves access to what they want and need.
 
 ---
 
